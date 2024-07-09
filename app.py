@@ -16,7 +16,7 @@ st.set_page_config(
 
 _, col2, _ = st.columns(3)
 with col2:
-    st.title('PDFTools')
+    st.title('Kit Zeus, PDF!')
     st.markdown("""
 
     ### Escolha a opção desejada abaixo:
